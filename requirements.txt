@@ -1,0 +1,2 @@
+# Proyek ini hanya memakai pustaka standar Python (sys, math, os, datetime, typing, abc).
+# Tidak ada paket tambahan yang perlu dipasang.
